@@ -138,6 +138,7 @@ extension_dict = {
     '.xlr'   : "Text/Spreadsheets",
     '.xls'   : "Text/Spreadsheets",
     '.xlsx'  : "Text/Spreadsheets",
+    '.numbers':"Text/Spreadsheets",
     # System
     '.bak'   : "Text/Other/System",
     '.cab'   : "Text/Other/System",
